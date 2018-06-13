@@ -1,1 +1,3 @@
-sample learning sample-repo
+sample learning
+Initiation of git
+sample-repo
